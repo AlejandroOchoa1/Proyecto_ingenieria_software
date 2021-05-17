@@ -1,0 +1,8 @@
+C:\librerias\Proyecto_ingenieria_software.BE.dll
+C:\librerias\Proyecto_ingenieria_software.BE.pdb
+C:\Users\cdiaz1\Documents\Visual Studio 2017\Proyecto_ingenieria_software\Proyecto_ingenieria_software.BE\obj\Debug\Proyecto_ingenieria_software.BE.csprojAssemblyReference.cache
+C:\Users\cdiaz1\Documents\Visual Studio 2017\Proyecto_ingenieria_software\Proyecto_ingenieria_software.BE\obj\Debug\Proyecto_ingenieria_software.BE.csproj.CoreCompileInputs.cache
+C:\Users\cdiaz1\Documents\Visual Studio 2017\Proyecto_ingenieria_software\Proyecto_ingenieria_software.BE\obj\Debug\Proyecto_ingenieria_software.BE.dll
+C:\Users\cdiaz1\Documents\Visual Studio 2017\Proyecto_ingenieria_software\Proyecto_ingenieria_software.BE\obj\Debug\Proyecto_ingenieria_software.BE.pdb
+C:\Users\cdiaz1\Documents\Visual Studio 2017\Proyecto_ingenieria_software\Proyecto_ingenieria_software.BE\obj\Debug\Proyecto_ingenieria_software.BE.SQLConsultas.resources
+C:\Users\cdiaz1\Documents\Visual Studio 2017\Proyecto_ingenieria_software\Proyecto_ingenieria_software.BE\obj\Debug\Proyecto_ingenieria_software.BE.csproj.GenerateResource.cache
